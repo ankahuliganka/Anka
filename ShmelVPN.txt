@@ -4,4 +4,6 @@ trojan://Oae2109-vpnjantit.com@ae5.vpnjantit.com:443?security=tls&type=tcp&heade
 trojan://Oae2109-vpnjantit.com@ae5.vpnjantit.com:443?security=tls&type=tcp&headerType=none#Oae2109-vpnjantit.com
 trojan://Arm2129-vpnjantit.com@am1.vpnjantit.com:443?security=tls&type=tcp&headerType=none#Arm21-29-vpnjantit.com
 
+
 trojan://ar2309-vpnjantit.com@am1.vpnjantit.com:443?security=tls&type=tcp&headerType=none#-1.10.25-vpnjantit
+trojan://0510-vpnjantit.com@am2.vpnjantit.com:443?security=tls&type=tcp&headerType=none#-05.10
