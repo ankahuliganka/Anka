@@ -1,3 +1,4 @@
+trojan://1110-vpnjantit.com@am2.vpnjantit.com:443?security=tls&headerType=none&type=tcp#%D0%94%D0%BE11.10
 trojan://0610-vpnjantit.com@am2.vpnjantit.com:443?security=tls&headerType=none&type=tcp#%D0%B4%D0%BE%2008.10.2025
 
 trojan://2610-vpnjantit.com@am1.vpnjantit.com:443?security=tls&type=tcp&headerType=none#26-3.10
