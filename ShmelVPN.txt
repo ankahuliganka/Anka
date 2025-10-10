@@ -1,4 +1,6 @@
+trojan://do1710-vpnjantit.com@am1.vpnjantit.com:443?security=tls&type=tcp&headerType=none#do1810-vpnjantit.com
 trojan://A15-vpnjantit.com@am2.vpnjantit.com:443?security=tls&headerType=none&type=tcp#%D0%90%D0%BD%D0%BA%D0%B0%20%D0%B4%D0%BE%2015.10
 trojan://1110-vpnjantit.com@am2.vpnjantit.com:443?security=tls&headerType=none&type=tcp#%D0%94%D0%BE11.10
 trojan://do1710-vpnjantit.com@am2.vpnjantit.com:443?security=tls&headerType=none&type=tcp#do17.10
+
 
