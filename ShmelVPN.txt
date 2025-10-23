@@ -1,1 +1,1 @@
-vless://414f12ba-ac0e-11f0-b43e-4fa0b3af8221@am2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&type=ws#%D0%B4%D0%BB%D1%8F%20%D0%90%D1%8E%D1%82%D0%BA%D0%B8%20%D0%B4%D0%BE23.19%2017%3A36
+vless://733c3f76-b02a-11f0-8015-dfc3efa35241@lv1.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&type=ws#%D0%94%D0%BE%2029.10%2023%3A08
