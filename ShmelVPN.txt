@@ -1,4 +1,6 @@
+trojan://do05-vpnjantit.com@am2.vpnjantit.com:443?security=tls&sni=am2.vpnjantit.com&type=tcp&headerType=none#do05.11
 trojan://do31-vpnjantit.com@am2.vpnjantit.com:443?security=tls&type=tcp&headerType=none#%D0%94%D0%BE%2030.10%2001%3A00
 
 vless://733c3f76-b02a-11f0-8015-dfc3efa35241@lv1.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&type=ws#%D0%94%D0%BE%2029.10%2023%3A08
+
 
