@@ -1,3 +1,5 @@
+trojan://Dggfkl-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&headerType=none&type=tcp#D%D0%B4%D0%BE15.11_17%3A31
 trojan://Anka-vpnjantit.com@am2.vpnjantit.com:443?security=tls&headerType=none&type=tcp#%D0%B4%D0%BE12.11.2025_18%3A50
 
 vless://961f42ce-001a-468c-8960-c85ce4ed7a8d@tunnyl.ru:443?type=tcp&encryption=none&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&fp=random&sni=google.com&sid=0f1d6a&spx=%2F&flow=xtls-rprx-vision#%E2%AD%90%EF%B8%8FVless-mtwh0ghk
+
