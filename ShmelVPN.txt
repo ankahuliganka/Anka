@@ -1,3 +1,2 @@
 vless://231ab9f4-c714-11f0-8c94-1bea1412242d@lv1.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&type=ws#%D0%BF%D0%BE%2028.11
 trojan://cz23-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&type=tcp&headerType=none#%D0%94%D0%BE%2024.11%2021%3A01
-
