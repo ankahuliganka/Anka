@@ -1,2 +1,3 @@
+trojan://do13-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&headerType=none&type=tcp#%D0%94%D0%BE%2013.12
 trojan://1212-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&type=tcp&headerType=none#1212-vpnjantit.com
-trojan://Dss-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&headerType=none&type=tcp#06.12%2018%3A00
+
