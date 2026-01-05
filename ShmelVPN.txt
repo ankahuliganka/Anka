@@ -1,3 +1,4 @@
 vless://ad12e95e-e723-11f0-8efe-d710d26155ec@lv1.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&type=ws#%D0%B4%D0%BE%2008%2F01
-trojan://Fdy0801-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&headerType=none&type=tcp#%D0%94%D0%BE%2006.01
+trojan://13Hdhxvxx-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&headerType=none&type=tcp#12%2F01
+
 
