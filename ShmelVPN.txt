@@ -1,3 +1,3 @@
-vless://bc595836-eb3c-11f0-ae55-7bda86c20c0c@lv1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#do13yanvar-vpnjantit.com
-vless://ad12e95e-e723-11f0-8efe-d710d26155ec@lv1.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&type=ws#%D0%B4%D0%BE%2008%2F01
+vless://bc595836-eb3c-11f0-ae55-7bda86c20c0c@lv1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#do13yanvara
 trojan://13Hdhxvxx-vpnjantit.com@cz3.vpnjantit.com:443?security=tls&headerType=none&type=tcp#12%2F01
+
