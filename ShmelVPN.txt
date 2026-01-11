@@ -1,3 +1,1 @@
 vless://7b19c77a-ef2e-11f0-aed5-63f54d4a5cee@lv1.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&type=ws#Ddo%2018%2F01
-
-
