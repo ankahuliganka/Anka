@@ -3,7 +3,3 @@ trojan://Do09-vpnjantit.com@dk1.vpnjantit.com:8443?security=tls&type=tcp&headerT
 trojan://Do11-vpnjantit.com@dk1.vpnjantit.com:8443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%D0%B4%D0%BE%2012%2F02
 
 
-
-
-
-
