@@ -1,6 +1,2 @@
 vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=reality&encryption=none&pbk=tYFlc_8tzrwDisZbxlHj06rw_YE154TVYeEBuwOQZHE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8a6605e7#%D0%A1%D1%82%D0%B0%D1%80%D1%82%2008.02%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-2241
 trojan://Do16-vpnjantit.com@dk1.vpnjantit.com:8443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%D0%B4%D0%BE%2015%2F02
-trojan://Do11-vpnjantit.com@dk1.vpnjantit.com:8443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%D0%B4%D0%BE%2012%2F02
-
-
-
