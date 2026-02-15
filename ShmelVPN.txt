@@ -1,5 +1,5 @@
 trojan://ko8-vpnjantit.com@cz2.vpnjantit.com:8443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#23%2F02%20Czech%20Republic%202
 trojan://D18-vpnjantit.com@cz2.vpnjantit.com:8443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#19%2F02
 trojan://Denmark20-vpnjantit.com@dk1.vpnjantit.com:8443?security=tls&type=tcp&headerType=none#Denmark20-02
-vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?mode=gun&security=reality&encryption=none&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&type=grpc&sni=ya.ru&sid=7dcd0c337708#%D1%81%D1%82%D0%B0%D1%80%D1%82%2015%2F02_RU-4722
+vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@185.250.149.240:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rus3.worldunlocked.org#%D1%81%D1%82%D0%B0%D1%80%D1%82%2015%2F02%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-4971
 
