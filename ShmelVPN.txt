@@ -1,3 +1,1 @@
-trojan://6yyN-ryH_e_9K_zPYD0Ylw@us2.v4trojn.xyz:443?path=%2Ftrojan-ws&security=tls&insecure=1&host=us2.v4trojn.xyz&fp=random&type=ws&allowInsecure=1&sni=us2.v4trojn.xyz#%D0%B4%D0%BE%2014%2F03
-vless://efcf348a-b502-44c9-baf8-96a47597f19e@us2.vlspeed.xyz:8443?mode=auto&path=%2Fxhttp-reality&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=dzLxh708F4gUqgXFR0TBXMIX2yUH9iBedmDvP_WToT0&fp=random&spx=%2F&type=xhttp&sni=163.com&sid=383ea359c0c0f1ef#08%2F03
-
+vless://457361a4-1f7f-11f1-b234-0fee54b4960f@dk1.vpnjantit.com:443?security=reality&encryption=none&pbk=4P8djjmaoyLbVgqxWoQoeFe7MliGfXV546bnMra9llk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=cfbc49c14b3eb530#%D0%B4%D0%BE%2019%2F03
