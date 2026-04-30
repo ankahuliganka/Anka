@@ -1,1 +1,1 @@
-trojan://rt79-vpnjantit.com@cz2.vpnjantit.com:8443?security=tls&sni=cz2.vpnjantit.com&type=tcp&headerType=none#rt79-vpnjantit.com
+trojan://rt79-vpnjantit.com@cz2.vpnjantit.com:8443?security=tls&sni=cz2.vpnjantit.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%D0%B4%D0%BE%2007.05
