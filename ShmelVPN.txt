@@ -1,1 +1,1 @@
-trojan://HH7-vpnjantit.com@cz2.vpnjantit.com:8443?security=tls&type=tcp&headerType=none#HH7-vpnjantit.com
+trojan://W6Ykn6CjBbEIXX1-f6INMQ@us2.v4trojn.xyz:443?mode=auto&path=%2Fxhttp&security=tls&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=1&fp=random&type=xhttp&allowInsecure=1&sni=us2.v4trojn.xyz#%D0%B4%D0%BE%2015.06
