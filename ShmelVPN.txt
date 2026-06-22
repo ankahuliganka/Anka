@@ -1,1 +1,1 @@
-trojan://wwfEpcZkszWfcBji0oi5pA@us1.v4trojn.xyz:2087?security=tls&sni=us1.v4trojn.xyz&fp=random&insecure=1&allowInsecure=1&type=ws#%D0%94%D0%BE%2029.06.2026
+trojan://m-sIitxccg2xVNyI-KHlWA@us2.v4trojn.xyz:80?path=%2Ftrojan-ws&security=none&host=us2.v4trojn.xyz&type=ws#29.06
