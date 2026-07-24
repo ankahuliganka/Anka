@@ -1,1 +1,1 @@
-trojan://m-sIitxccg2xVNyI-KHlWA@us2.v4trojn.xyz:80?path=%2Ftrojan-ws&security=none&host=us2.v4trojn.xyz&type=ws#29.06
+trojan://EVpFA2W1fNJL_XP2vuk84g@us2.v4trojn.xyz:80?path=%2Ftrojan-ws&security=none&host=us2.v4trojn.xyz&type=ws#31/07
